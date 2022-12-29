@@ -1,5 +1,8 @@
 _repo: Footing-it-in-Franconia_69355
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69355-h/images/cover.jpg
 creator:
   author:
     agent_name: Torrey, Bradford
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3667
     wikipedia: https://en.wikipedia.org/wiki/Bradford_Torrey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69355#Footing-it-in-Franconia
 gutenberg_issued: '2022-11-15'
 identifiers:
   gutenberg: '69355'
